@@ -1,0 +1,14 @@
+html {
+  height: 80%;
+  font-size: 100%;
+}
+
+body {
+  font-family: 'Arial';
+  background-color: silver;
+  color: blue;
+}
+
+body.collection {
+ background-color: silver;
+}
