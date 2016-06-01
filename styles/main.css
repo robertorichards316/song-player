@@ -3,12 +3,8 @@ html {
   font-size: 100%;
 }
 
-body {
+body.main {
   font-family: 'Arial';
-  background-color: silver;
-  color: blue;
-}
-
-body.collection {
- background-color: silver;
+  background-color: blue;
+  color: white;
 }
