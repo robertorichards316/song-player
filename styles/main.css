@@ -3,8 +3,15 @@ html {
   font-size: 100%;
 }
 
-body.main {
+body {
   font-family: 'Arial';
-  background-color: blue;
-  color: white;
+  background-color: silver;
+  color: black;
+  position: absolute;
+  left: 300px;
+  top: 0px;
+}
+
+body.nav {
+  border-bottom: red;
 }
