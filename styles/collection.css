@@ -1,4 +1,11 @@
-body.collection {
-  background-color: rgb(88,0,0);
-  color: white;
+body {
+  background-color: silver;
+  color: blue;
+  position: absolute;
+  left: 300px;
+}
+p.collection {
+  color: red;
+  position: absolute;
+  left: 200px;
 }

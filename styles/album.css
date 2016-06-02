@@ -1,4 +1,6 @@
 body {
   background-color: silver;
-  
+  position: absolute;
+  left: 400px;
+
 }
